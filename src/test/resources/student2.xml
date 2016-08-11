@@ -1,0 +1,13 @@
+<DATA>
+    <ITEM>
+        <name>Tom</name>
+        <age>16</age>
+        <sex>male</sex>
+    </ITEM>
+    
+    <ITEM>
+        <name>Lily</name>
+        <age>18</age>
+        <sex>female</sex>
+    </ITEM>
+</DATA>
